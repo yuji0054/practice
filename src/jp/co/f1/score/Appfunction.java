@@ -24,9 +24,11 @@ public class Appfunction {
 
 	//　国語の合計点数
 	int sumJp = 0;
+	//　英語のsum
 	int sumMath = 0;
+	// syygakunosau
 	int sumEng = 0 ;
-
+	//　時空
 	 double aveJp= 0.0;
 	 double aveMath = 0.0;
 	 double aveEng = 0.0;
