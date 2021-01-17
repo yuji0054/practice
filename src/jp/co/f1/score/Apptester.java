@@ -21,7 +21,6 @@ public class Apptester {
 			}
 		}
 		} catch (Exception e ) {
-			// エラーの紹介
 			System.out.println( e + "という例外が発生しました。");
 		}
 	}
