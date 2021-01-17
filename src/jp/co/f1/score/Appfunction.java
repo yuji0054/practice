@@ -22,6 +22,7 @@ public class Appfunction {
 	private ArrayList<Integer> mathArrayList = new ArrayList<Integer>();//数学の点数格納用配列
 	private ArrayList<Integer> englishArrayList = new ArrayList<Integer>();//英語の点数格納用配列
 
+	//　国語の合計点数
 	int sumJp = 0;
 	int sumMath = 0;
 	int sumEng = 0 ;
